@@ -95,5 +95,4 @@ kubectl apply -f manifests/flask-deployment.yaml
 kubectl get svc flask-service -n <namespace>
 # Open the EXTERNAL-IP in your browser
 
-## **License**
-This project is licensed under the MIT License.
+
