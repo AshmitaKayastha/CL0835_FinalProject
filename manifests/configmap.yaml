@@ -5,7 +5,7 @@ metadata:
   namespace: fp
 data:
   STUDENT_NAME: "Ashmita & Pujan"
-  BG_IMAGE_URL: "s3://clo835background/hill.jpg"
+  BG_IMAGE_URL: "s3://clo835-background-image/mountain.jpg"
   DBHOST: "mysql-service"
   DATABASE: "employees"
   DBPORT: "3306"
