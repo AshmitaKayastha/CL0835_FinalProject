@@ -7,11 +7,9 @@ This project demonstrates deploying a **Flask** application connected to a **MyS
 ## **Prerequisites**
 
 - AWS Account with IAM permissions for EKS, ECR, EC2, and S3
-- AWS CLI installed and configured
-- Docker installed
 - `kubectl` and `eksctl` installed
-- Amazon Cloud9 (optional but recommended)
-- An existing S3 bucket for hosting background images
+- Amazon Cloud9
+- S3 bucket for hosting background images
 
 ---
 
